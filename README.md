@@ -48,12 +48,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kean/kean/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kean/kean/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kean/kean/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkodachii/kkodachii/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkodachii/kkodachii/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kkodachii/kkodachii/output/github-snake.svg" />
 </picture>
 
 # 📊 GitHub Stats:
