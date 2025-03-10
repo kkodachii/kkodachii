@@ -1,13 +1,8 @@
-## 💫 About Me:
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<div align="center">
+# Hello World!, I'm Kean 👋🏼:
 
-🚀 Passionate about tech and coding<br>
-🎓 BSIT Major in Web & Mobile Development<br>
-💻 Web Full-Stack Developer<br>
-🎮 Aspiring Game Developer
-
-</div>
+ I’m a BSIT student majoring in Web and Mobile Development, currently working on my own [webpage](https://www.tobiasmeyhoefer.de). I’m also interested in game development and plan to create my own game in the future. I'm always looking to improve my skills and gain more experience in both web and game development.
 
 ---
 
