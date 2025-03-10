@@ -50,25 +50,18 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkodachii&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kkodachii&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkodachii&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
 
----
+![](https://github-readme-stats.vercel.app/api?username=kkodachii&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kkodachii&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkodachii&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kkodachii&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
-### ✍️ Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
-
----
-
-### 🔝 Top Contributed Repo:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kkodachii&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kkodachii&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 
