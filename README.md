@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Kean 👋🏼:
 
- I’m a BSIT student majoring in Web and Mobile Development, currently working on my own [webpage](https://www.tobiasmeyhoefer.de). I’m also interested in game development and plan to create my own game in the future. I'm always looking to improve my skills and gain more experience in both web and game development.
+ I’m a BSIT student majoring in Web and Mobile Development, currently working on my own [webpage](https://luscreens.vercel.app). I’m also interested in game development and plan to create my own game in the future. I'm always looking to improve my skills and gain more experience in both web and game development.
 
 ---
 
